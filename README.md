@@ -1,8 +1,8 @@
-#   Marketing-Blog
+# Pearsonal - Blog
 
 ## Description
 
->>>
+Interactivlely allows users to engage, browse, and create a blog.
 
   ## Table of Contents 
 
@@ -19,11 +19,13 @@ _____________________________________________________________________________
 
 ## Links
 
->>>
+>> add after render or postman
 
 ## Built-With
 
->>>
+- HTML
+- CSS
+- JavaScript
 
 ## Credits 
 
@@ -31,7 +33,7 @@ https://github.com/Jarvisismy-copilot
 
 ## License
 
->>>
+No License.
 
  ## Questions 
   
