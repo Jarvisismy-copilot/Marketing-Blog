@@ -19,7 +19,7 @@ _____________________________________________________________________________
 
 ## Links
 
->> add after render or postman
+[Screenshot](https://drive.google.com/file/d/126Dm0viP9SclrpNjWFJy-X-pe1M_XWkM/view?usp=sharing)
 
 ## Built-With
 
